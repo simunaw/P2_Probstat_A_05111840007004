@@ -93,5 +93,37 @@ plotDist(dist='t', df=2, col="blue")
 
 ![image](https://user-images.githubusercontent.com/58022238/170879787-0d1c9a1e-7871-4e0d-a950-5f9b5bc2f4aa.png)
 
+## d) Nilai Kritikan 
+
+## e) Keputusan
+
+Didapatkan nilai p-value<= alpha (5%)
+
+## f) Kesimpulan 
+
+Adanya perbedaan rata-rata dari perhitungan saham antara Bandung dan Bali
+
+# No 4
+
+## a) Membuat jenis spesies
+
+## b) Nilai p yang didapatkan
+
+## c) Model Linier
+
+## d) Nilai p dan kesimpulan
+
+## e) Verifikasi
+
+## f) Visualisasikan
+
+# No 5
+
+## a) Membuat Plot
+
+Read.csv("direktori")
+read.csv("GTL.csv")
+head(GTL)
+
 
 
