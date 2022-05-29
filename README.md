@@ -16,7 +16,7 @@
 
 #sd
 
-(https://user-images.githubusercontent.com/58022238/170868044-0d8fb33f-dca1-4e4b-801f-dd98095a81e7.png)
+![Getting Started](https://user-images.githubusercontent.com/58022238/170868044-0d8fb33f-dca1-4e4b-801f-dd98095a81e7.png)
 
 
 ## b)
