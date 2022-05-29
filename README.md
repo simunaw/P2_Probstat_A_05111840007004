@@ -45,10 +45,22 @@
 #b)
 ![image](https://user-images.githubusercontent.com/58022238/170868631-b646c4c0-4755-4a29-914d-44c691b60023.png)
 
+#output diatas didapatkan nilai z = 60.256 dan p-value <= alpha (5%). dan selang kepercayaan berada pada 22858 sampai tak hingga.
+
 #c)
 kesimpulan berdasarkan P-Value yang dihasilkan
 
 H0 : "rata-rata jarak tempuh mobil <= 20000 kilometer.
+
+## N0 3
+
+#a) 
+
+Hipotesis 
+
+#H0 : Tidak ada perbedaan rata-rata saham antara kota Bandung dan Bali
+
+#H1 : Ada perbedaan rata-rata saham antara kota Bandung dan Bali
 
 
 
