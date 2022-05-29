@@ -63,6 +63,22 @@ Hipotesis
 
 #H1 : Ada perbedaan rata-rata saham antara kota Bandung dan Bali
 
+#b)
 
+tsum.test (
+
+  mean.x = 3.64,
+  
+  s.x = 1.67,
+  
+  n.x = 19,
+  
+  alternative = "greater"
+  
+  var.equal = TRUE
+  
+  )
+  
+![image](https://user-images.githubusercontent.com/58022238/170878857-d8899622-1de3-4a56-8157-f438f3f8f75c.png)
 
 
