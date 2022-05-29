@@ -122,7 +122,9 @@ Adanya perbedaan rata-rata dari perhitungan saham antara Bandung dan Bali
 ## a) Membuat Plot
 
 Read.csv("direktori")
+
 read.csv("GTL.csv")
+
 head(GTL)
 
 
